@@ -1,0 +1,20 @@
+.all-jobs-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+}
+.search-icon {
+  color: white;
+}
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

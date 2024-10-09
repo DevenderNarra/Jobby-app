@@ -1,0 +1,39 @@
+.card-item {
+  text-decoration: none;
+  color: white;
+}
+.card {
+  height: 60vh;
+  width: 90%;
+  background-color: #202020;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.card-item img {
+  height: 70px;
+  width: 80px;
+}
+.company-logo-container {
+  display: flex;
+  align-items: center;
+}
+.company-content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 10px;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+.location-internship-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.location {
+  display: flex;
+  align-items: center;
+}
